@@ -59,7 +59,7 @@ Calculation:
 
 a.   KVL:
 
- ![WhatsApp Image 2025-10-21 at 10 31 01_25bfac60](https://github.com/user-attachments/assets/b11c162f-3132-419f-9e1b-4d95f6ce8f82)
+<img width="486" height="696" alt="image" src="https://github.com/user-attachments/assets/83e9690b-e25b-43da-98e9-e59a973af545" />
 
 ![WhatsApp Image 2025-10-21 at 10 31 02_9c9d257e](https://github.com/user-attachments/assets/69814880-ce91-46e1-ad57-eeb7c687c3af)
 
